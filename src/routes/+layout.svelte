@@ -23,7 +23,7 @@
 </script>
 
 <svelte:head>
-	<title>Vercel News</title>
+	<title>Vercel News 123</title>
 	<link
 		href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
 		rel="stylesheet"
