@@ -4,7 +4,7 @@ import { _token } from '../../api/cms/refresh/+server';
 
 export const config = {
 	isr: {
-		expiration: 180,
+		expiration: 30,
 		bypassToken: _token
 	}
 };
