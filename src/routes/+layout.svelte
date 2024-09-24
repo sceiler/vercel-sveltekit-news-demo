@@ -34,7 +34,7 @@
 	<header class="border-b border-[#eaeaea] bg-white">
 		<nav class="max-w-[1024px] mx-auto px-6 py-4 flex justify-between items-center">
 			<div class="flex items-center space-x-6">
-				<a href="/" class="font-semibold text-xl">Vercel News</a>
+				<a href="/" class="font-semibold text-xl">Vercel News 123</a>
 				<a href="/" class="text-sm text-gray-600 hover:text-black">Home</a>
 				<a href="/about" class="text-sm text-gray-600 hover:text-black">About</a>
 			</div>
